@@ -18,3 +18,7 @@ logs/
 Thumbs.db
 .vscode/
 .idea/
+
+# Temp artifacts (PDF rendering / extraction)
+_pdf_pages/
+_pdf_text.txt
