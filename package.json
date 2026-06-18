@@ -1,0 +1,15 @@
+{
+  "name": "ocpp-test-server",
+  "version": "1.0.0",
+  "description": "Minimal OCPP 1.6J test CSMS for verifying an EVlink charger connection",
+  "main": "ocpp-test-server.js",
+  "scripts": {
+    "start": "node ocpp-test-server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
